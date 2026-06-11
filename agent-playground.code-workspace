@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../agent-framework-starter"
+		},
+		{
+			"path": "../agentic-library"
+		}
+	],
+	"settings": {}
+}
