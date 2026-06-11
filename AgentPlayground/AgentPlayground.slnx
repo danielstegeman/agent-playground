@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgentPlayground.Host/AgentPlayground.Host.csproj" />
+    <Project Path="src/AgentPlayground.Tools.Clock/AgentPlayground.Tools.Clock.csproj" />
+    <Project Path="src/AgentPlayground/AgentPlayground.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AgentPlayground.Tests/AgentPlayground.Tests.csproj" />
+  </Folder>
+</Solution>
